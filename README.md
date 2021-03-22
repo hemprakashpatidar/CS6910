@@ -1,13 +1,13 @@
 # CS6910
 
-Line 43-52 contains code for Question 1.
+Line 43-47 contains code for Question 1.
 
-Line 179-202 contains code for forword propogation
+Line 171-195 contains code for forword propogation
 
-Line 209-234 contains code for backpropagation
+Line 202-227 contains code for backpropagation
 
-Line 237-282 contains code for updating parameters as per different optimisers
+Line 230-275 contains code for updating parameters as per different optimisers
 
 Clsas MyDNN contains feedforword neural network
 
-Line 395-450 contains sweeping code for wandb
+Line 387-443 contains sweeping code for wandb
