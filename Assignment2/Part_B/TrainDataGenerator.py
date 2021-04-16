@@ -14,3 +14,6 @@ val_generator = ImageDataGenerator(rescale=1./255,validation_split=0.1).flow_fro
                                                      class_mode='binary',
                                                      subset='validation',
                                                      seed=123)
+
+X_train, y_train = next(train_generator)
+X_val, y_val = next(val_generator)
