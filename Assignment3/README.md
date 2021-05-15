@@ -14,6 +14,8 @@ Assignment 3 Readme
 
 [Prediction.py](https://github.com/hemprakashpatidar/CS6910/blob/main/Assignment3/Prediction.py) For predicting some words in devnagiri
 
+[predictions_vanilla](https://github.com/hemprakashpatidar/CS6910/tree/main/Assignment3/predictions_vanilla) It contains all predicted values
+
 [myrnn.py](https://github.com/hemprakashpatidar/CS6910/blob/main/Assignment3/myrnn.py) In this file
 
 Line 27-87 contains code for generating training data
