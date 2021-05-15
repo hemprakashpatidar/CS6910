@@ -14,6 +14,8 @@ Assignment 3 Readme
 
 [Prediction.py](https://github.com/hemprakashpatidar/CS6910/blob/main/Assignment3/Prediction.py) For predicting some words in devnagiri
 
+[All_Predictions_tsv.py](https://github.com/hemprakashpatidar/CS6910/blob/main/Assignment3/All_Predictions_tsv.py) It contains code to create tsv file for all the predictions
+
 [predictions_vanilla](https://github.com/hemprakashpatidar/CS6910/tree/main/Assignment3/predictions_vanilla) It contains all predicted values
 
 [myrnn.py](https://github.com/hemprakashpatidar/CS6910/blob/main/Assignment3/myrnn.py) In this file
